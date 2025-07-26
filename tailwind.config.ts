@@ -52,6 +52,15 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				flight: {
+					active: 'hsl(var(--flight-active))',
+					tracked: 'hsl(var(--flight-tracked))',
+					alert: 'hsl(var(--flight-alert))'
+				},
+				walmart: {
+					blue: 'hsl(var(--walmart-blue))',
+					gold: 'hsl(var(--walmart-gold))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
